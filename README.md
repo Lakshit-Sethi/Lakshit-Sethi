@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Saurabh Bhandari</h1>
+<h1 align="center">Hi 👋, I'm Lakshit Sethi</h1>
 
 [![Codeforces](https://badges.joonhyung.xyz/codeforces/Lakshit_Sethi.svg)](https://codeforces.com/profile/Lakshit-Sethi)
 [![Badge](https://cp-logo.vercel.app/codechef/lakshit_s?logo=true)](https://www.codechef.com/users/lakshit_s)
